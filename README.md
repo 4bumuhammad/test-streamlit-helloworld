@@ -31,6 +31,10 @@ Code :
 		print("hello")
 		st.write("Hello world, perubahan ke-2")
 
+Run :
+
+	❯ streamlit run ./streamlit_app.py  --server.port 8888
+
 
 Notes :
 
@@ -85,4 +89,4 @@ Notes :
 		validators                0.22.0
 		zipp                      3.17.0
 		WARNING: You are using pip version 22.0.4; however, version 24.0 is available.
-		You should consider upgrading via the '/Users/powercommerce/Documents/test/from-github-all/test-streamlit-helloworld/venv/bin/python -m pip install --upgrade pip' command.
+		You should consider upgrading via the '/Users/.../test-streamlit-helloworld/venv/bin/python -m pip install --upgrade pip' command.
