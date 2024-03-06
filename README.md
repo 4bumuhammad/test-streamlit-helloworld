@@ -43,7 +43,7 @@ Result :
 </p>
 <p align="center">Tampilan pada browser | http://localhost:8888</p>
 
-Notes :
+&#x1FAA7; Notes :
 
 	❯ pip list
 
