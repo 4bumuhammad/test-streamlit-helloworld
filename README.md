@@ -25,8 +25,8 @@ Begin :
 
 Code : 
 
-❯ vim streamlit_app.py
+	❯ vim streamlit_app.py
 
-import streamlit as st
-print("hello")
-st.write("Hello world, perubahan ke-2")
+	import streamlit as st
+	print("hello")
+	st.write("Hello world, perubahan ke-2")
