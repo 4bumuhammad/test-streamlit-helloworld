@@ -38,7 +38,10 @@ Run :
 
 Result : 
 
-
+<p align="center">
+    <img src="./ss_test-streamlit-hello-world.png" alt="ss_test-streamlit-hello-world" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">Tampilan pada browser | http://localhost:8888</p>
 
 Notes :
 
