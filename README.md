@@ -29,11 +29,15 @@ Code :
 
 		import streamlit as st
 		print("hello")
-		st.write("Hello world, perubahan ke-2")
+		st.write("Hello world, ... update")
 
 Run :
 
 	❯ streamlit run ./streamlit_app.py  --server.port 8888
+
+
+Result : 
+
 
 
 Notes :
