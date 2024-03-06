@@ -25,7 +25,7 @@ Begin :
 
 Code : 
 
-	❯ vim streamlit_app.py
+❯ vim streamlit_app.py
 
 		import streamlit as st
 		print("hello")
